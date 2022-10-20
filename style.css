@@ -1,0 +1,31 @@
+.brand {
+    color: #FD841F;
+    padding-top: 200px;
+    font-size: 200px;
+}
+
+.fun {
+    font-family: 'Russo One';
+}
+
+.image {
+    background-image: url(https://images6.alphacoders.com/437/437932.jpg);
+    height: 900px;
+}
+
+.slogan {
+    color: #F1F1F1;
+  font-size: 50px;
+}
+
+.about {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 100px;
+}
+
+.about_us {
+text-align: center;
+margin-right: 500px;
+margin-left: 500px;
+}
